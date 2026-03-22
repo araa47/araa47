@@ -9,6 +9,7 @@ I build tools that give AI agents real-world superpowers — and smart home inte
 | | Repo | What it does | Install |
 |---|------|-------------|---------|
 | 🐋 | **[orca](https://github.com/araa47/orca)** | Agent orchestrator — spawn parallel workers in isolated git worktrees | `cargo install --git https://github.com/araa47/orca` |
+| 🎙️ | **[ez-voice](https://github.com/araa47/ez-voice)** | Local STT & TTS — Whisper, Parakeet, Piper, PocketTTS with voice cloning, runs on CPU | `npx skills add araa47/ez-voice` |
 | 🏠 | **[ez-ha](https://github.com/araa47/ez-ha)** | Give your agent full Home Assistant control — entities, services, automations | `npx skills add araa47/ez-ha` |
 | 📶 | **[ez-unifi](https://github.com/araa47/ez-unifi)** | Manage UniFi networks — devices, clients, WiFi, firewall, PoE | `npx skills add araa47/ez-unifi` |
 | 📄 | **[markpdf](https://github.com/araa47/markpdf)** | Beautiful PDFs from markdown — one command, zero config | `npx skills add araa47/markpdf` |
