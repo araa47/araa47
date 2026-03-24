@@ -16,6 +16,12 @@ I build tools that give AI agents real-world superpowers — and smart home inte
 | 📄 | **[markpdf](https://github.com/araa47/markpdf)** | Beautiful PDFs from markdown — one command, zero config | `npx skills add araa47/markpdf` |
 | 🐍 | **[cookiecutter-python-uv-boilerplate](https://github.com/araa47/cookiecutter-python-uv-boilerplate)** | Python project template with uv + prek + GitHub Actions — scaffold repos with proper testing and CI from the start | `uvx cookiecutter https://github.com/araa47/cookiecutter-python-uv-boilerplate.git` |
 
+### Benchmarks & Research
+
+| | Repo | What it does |
+|---|------|-------------|
+| 🖥️ | **[mac-bench](https://github.com/araa47/mac-bench)** | Open benchmark suite for local AI models on Apple Silicon — vision & face recognition dashboards · [Live results →](https://araa47.github.io/mac-bench/) |
+
 ### Home Automation & IoT
 
 | | Repo | What it does |
